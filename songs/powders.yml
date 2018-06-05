@@ -1,0 +1,3646 @@
+powders:
+  piratesofthecaribbean:
+    name: 'PiratesOfTheCaribbean'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'He''s A Pirate.nbs'
+        volume: .5
+        multiplier: 2
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 127.25
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 170
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  djgotus:
+    name: 'DJGotUsFallinInLove'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'DJ Got Us Fallin'' in Love.nbs'
+        volume: .5
+        multiplier: 2
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 148.75
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 127.25
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_BASEDRUM'
+  portal2:
+    name: 'Portal2'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'Cara Mia.nbs'
+        volume: .5
+        multiplier: 2
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 106.25
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 106.25
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  hello:
+    name: 'Hello-OMFG'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'omfghello.nbs'
+        volume: .5
+        multiplier: 1
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 85
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 425
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  despacito:
+    name: 'Despacito'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'despacito.nbs'
+        volume: .5
+        multiplier: 4
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 106.25
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 63.75
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_GUITAR'
+  despacito3:
+    name: 'DespacitoThree'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'despacito.nbs'
+        volume: .19
+        multiplier: 1.96
+        startTime: 0
+        repeatTime: 50
+        iterations: 3
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 42.5
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 382.5
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  globglobglob:
+    name: 'Glob'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'globglobglob.nbs'
+        volume: .5
+        multiplier: 2.5
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 127.25
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 170
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  7thelement:
+    name: '7thElement'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: '7thelement.nbs'
+        volume: .5
+        multiplier: 2
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 85
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 74.375
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  helloadele:
+    name: 'Hello-Adele'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'adelehello.nbs'
+        volume: .5
+        multiplier: 2
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 180.625
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 425
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  africa:
+    name: 'Africa'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'africa.nbs'
+        volume: .5
+        multiplier: 3.3333333
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 85
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 74.375
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  barbiegirl:
+    name: 'BarbieGirl'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'barbiegirl.nbs'
+        volume: .5
+        multiplier: 2
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 106.25
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 425
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  dancingqueen:
+    name: 'DancingQueen'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'dancingqueen.nbs'
+        volume: .5
+        multiplier: 2.5
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 127.25
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 170
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  everythingisawesome:
+    name: 'EverythingIsAwesome'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'everythingisawesome.nbs'
+        volume: .5
+        multiplier: 2.5
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 180.625
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 425
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_FLUTE'
+  thunderstruck:
+    name: 'Thunderstruck'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'thunderstruck.nbs'
+        volume: .5
+        multiplier: 2.5
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 85
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 382.5
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_GUITAR'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  tnt:
+    name: 'TNT'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'tnt.nbs'
+        volume: .5
+        multiplier: 2.5
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 42.5
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 74.375
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_GUITAR'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  herecomesthesun:
+    name: 'HereComesTheSun'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'herecomesthesun.nbs'
+        volume: .5
+        multiplier: 2.5
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 127.25
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 170
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_GUITAR'
+  heyjude:
+    name: 'HeyJude'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'heyjude.nbs'
+        volume: .5
+        multiplier: 3.33333333
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 85
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 425
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_GUITAR'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  iwanttoholdyourhand:
+    name: 'IWantToHoldYourHand'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'iwanttoholdyourhand.nbs'
+        volume: .5
+        multiplier: 2.5
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 180.625
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 74.375
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_GUITAR'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  strawberryfieldsforever:
+    name: 'StrawberryFieldsForever'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'strawberryfieldsforever.nbs'
+        volume: .5
+        multiplier: 3.33333333
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 180.625
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 425
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_GUITAR'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  strawberryfieldsforever:
+    name: 'StrawberryFieldsForever'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'strawberryfieldsforever.nbs'
+        volume: .5
+        multiplier: 3.33333333
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 127.25
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 170
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_GUITAR'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  dieinafire:
+    name: 'DieInAFire'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'dieinafire.nbs'
+        volume: .5
+        multiplier: 3.33333333
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 85
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 425
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  dieinafire:
+    name: 'DieInAFire'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'dieinafire.nbs'
+        volume: .5
+        multiplier: 2.5
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 106.25
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 382.5
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  faded:
+    name: 'Faded'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'faded.nbs'
+        volume: .5
+        multiplier: 2
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 106.25
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 74.375
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  fnafsong:
+    name: 'FNAFSong'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'fnafsong.nbs'
+        volume: .5
+        multiplier: 2.5
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 180.625
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 74.375
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  gravityfalls:
+    name: 'GravityFalls'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'gravityfalls.nbs'
+        volume: .5
+        multiplier: 2
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 180.625
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 74.375
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  igotnotime:
+    name: 'IGotNoTime'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'igotnotime.nbs'
+        volume: .5
+        multiplier: 3.3333333
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 85
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 425
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  itookapillinibiza:
+    name: 'ITookAPillInIbiza'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'itookapillinibiza.nbs'
+        volume: .5
+        multiplier: 3.3333333
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 106.25
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 425
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  itsbeensolong:
+    name: 'ItsBeenSoLong'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'itsbeensolong.nbs'
+        volume: .5
+        multiplier: 3.333333
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 180.625
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 382.5
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  paintitblack:
+    name: 'PaintItBlack'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'paintitblack.nbs'
+        volume: .5
+        multiplier: 2
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 106.25
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 425
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  penpineappleapplepen:
+    name: 'PenPineappleApplePen'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'penpineapple.nbs'
+        volume: .5
+        multiplier: 2
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 127.25
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 170
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  pokemon:
+    name: 'PokemonTheme'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'pokemontheme.nbs'
+        volume: .5
+        multiplier: 2
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 180.625
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 74.375
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  sonictheme:
+    name: 'Sonic'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'sonictheme.nbs'
+        volume: 5
+        multiplier: 2
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 106.25
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 382.5
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  scatman:
+    name: 'Scatman'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'scatman.nbs'
+        volume: .5
+        multiplier: 2
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 85
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 425
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  sweetchildomine:
+    name: 'SweetChildOMine'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'sweetchildomine.nbs'
+        volume: .5
+        multiplier: 2
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 127.25
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 170
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  wearenumberone:
+    name: 'WeAreNumberOne'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'wearenumberone.nbs'
+        volume: .5
+        multiplier: 2
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 85
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 74.375
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  shootingstars:
+    name: 'ShootingStars'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'shootingstars.nbs'
+        volume: .5
+        multiplier: 2.5
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 127.25
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 170
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  wearethechampions:
+    name: 'WeAreTheChampions'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'wearethechampions.nbs'
+        volume: .5
+        multiplier: 2.5
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 42.5
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 74.375
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  youreposted:
+    name: 'YouRepostedInTheWrongNeighborhood'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'youreposted.nbs'
+        volume: .5
+        multiplier: 2.5
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 85
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 425
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  hotlinebling:
+    name: 'HotlineBling'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'hotlinebling.nbs'
+        volume: .5
+        multiplier: 2
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 180.625
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 74.375
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  imagine:
+    name: 'Imagine'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'imagine.nbs'
+        volume: .5
+        multiplier: 4
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 318.75
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 425
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  letitbe:
+    name: 'LetItBe'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'letitbe.nbs'
+        volume: .5
+        multiplier: 3.3333
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 127.25
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 170
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  marchtothescaffold:
+    name: 'MarchToTheScaffold'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'marchtothescaffold.nbs'
+        volume: .5
+        multiplier: 2
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 180.625
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 425
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  demons:
+    name: 'Demons'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'Demons.nbs'
+        volume: .5
+        multiplier: 2.5
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 85
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 382.5
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  roar:
+    name: 'Roar'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'Roar.nbs'
+        volume: .5
+        multiplier: 2
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 127.25
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 170
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  whatdoesthefoxsay:
+    name: 'WhatDoesTheFoxSay'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'The Fox.nbs'
+        volume: .5
+        multiplier: 2
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 318.75
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 382.5
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  wakemeup:
+    name: 'WakeMeUp'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'Wake Me Up.nbs'
+        volume: .5
+        multiplier: 2.5
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 318.75
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 74.375
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  countingstars:
+    name: 'CountingStars'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'Counting Stars.nbs'
+        volume: .5
+        multiplier: 2.5
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 85
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 382.5
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  paradise:
+    name: 'Paradise'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'Paradise.nbs'
+        volume: .5
+        multiplier: 2.5
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 127.25
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 170
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  iknewyouweretrouble:
+    name: 'IKnewYouWereTrouble'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'I Knew You Were Trouble.nbs'
+        volume: .5
+        multiplier: 2
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 180.625
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 425
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  payphone:
+    name: 'Payphone'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'Payphone.nbs'
+        volume: .5
+        multiplier: 2.5
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 85
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 425
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  madworld:
+    name: 'MadWorld'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'Mad World.nbs'
+        volume: .5
+        multiplier: 2.5
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 127.25
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 170
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  heysoulsister:
+    name: 'HeySoulSister'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'Hey Soul Sister.nbs'
+        volume: .5
+        multiplier: 2.5
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 106.25
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 74.375
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  getlucky:
+    name: 'GetLucky'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'Get Lucky.nbs'
+        volume: .5
+        multiplier: 2.5
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 106.25
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 74.375
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  radioactive:
+    name: 'Radioactive'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'Radioactive.nbs'
+        volume: .5
+        multiplier: 2
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 127.25
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 170
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  partyrockanthem:
+    name: 'PartyRockAnthem'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'Party Rock Anthem.nbs'
+        volume: .5
+        multiplier: 2
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 85
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 425
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  gangnamstyle:
+    name: 'GangnamStyle'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'Oppan Gangnam Style.nbs'
+        volume: .5
+        multiplier: 2
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 42.5
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 425
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  somebodythatiusedtoknow:
+    name: 'SomebodyThatIUsedToKnow'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'Somebody That I Used to Know.nbs'
+        volume: .5
+        multiplier: 2
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 42.5
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 74.375
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  flightofthebumblebee:
+    name: 'FlightOfTheBumblebee'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'Flight of the Bumblebee.nbs'
+        volume: .5
+        multiplier: 2
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 180.625
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 382.5
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  moveslikejagger:
+    name: 'MovesLikeJagger'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'Moves Like Jagger.nbs'
+        volume: .5
+        multiplier: 2
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 127.25
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 170
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  throughthefireandflames:
+    name: 'ThroughTheFireAndFlames'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'throughthefireandflames.nbs'
+        volume: .5
+        multiplier: 2
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 180.625
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 382.5
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  zelda:
+    name: 'Zelda'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'Zelda Theme tune.nbs'
+        volume: .5
+        multiplier: 2
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 318.75
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 425
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  vivalavida:
+    name: 'VivaLaVida'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'Viva La Vida.nbs'
+        volume: .5
+        multiplier: 2
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 127.25
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 170
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  jamesbond:
+    name: 'JamesBond'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'James Bond Theme.nbs'
+        volume: .5
+        multiplier: 2
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 85
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 425
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  mortalkombat:
+    name: 'MortalKombat'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'mortalkombat.nbs'
+        volume: .5
+        multiplier: 1.666666666666
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 106.25
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 74.375
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  ymca:
+    name: 'YMCA'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'ymca.nbs'
+        volume: .5
+        multiplier: 2.5
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 42.5
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 74.375
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  gambia:
+    name: 'GambiaNationalAnthem'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'gambianationalanthem.nbs'
+        volume: .5
+        multiplier: 2.5
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 42.5
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 382.5
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  jujuonthatbeat:
+    name: 'JujuOnThatBeat'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'jujuonthatbeat.nbs'
+        volume: .5
+        multiplier: 2
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 127.25
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 170
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  workhardplayhard:
+    name: 'WorkHardPlayHard'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'workhardplayhard.nbs'
+        volume: .5
+        multiplier: 4
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 180.625
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 425
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  igotafeeling:
+    name: 'IGotAFeeling'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'igotafeeling.nbs'
+        volume: .5
+        multiplier: 2
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 106.25
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 425
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  gettinjiggywithit:
+    name: 'GettinJiggyWithIt'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'gettinjiggywithit.nbs'
+        volume: .5
+        multiplier: 2.5
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 127.25
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 170
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  wherethehoodat:
+    name: 'WhereTheHoodAt'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'wherethehoodat.nbs'
+        volume: .5
+        multiplier: 4
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 85
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 74.375
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  darudesandstorm:
+    name: 'DarudeSandstorm'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'sandstorm.nbs'
+        volume: .5
+        multiplier: 2.5
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 42.5
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 170
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  xfiles:
+    name: 'XFiles'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'xfiles.nbs'
+        volume: .5
+        multiplier: 2.5
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 318.75
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 382.5
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  harrypotter:
+    name: 'HarryPotter'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'harrypotter.nbs'
+        volume: .5
+        multiplier: 3.3333333
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 42.5
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 425
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  axelf:
+    name: 'AxelF'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'axelf.nbs'
+        volume: .5
+        multiplier: 2
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 127.25
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 170
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  wakemeupinside:
+    name: 'WakeMeUpInside'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'wakemeupinside.nbs'
+        volume: .5
+        multiplier: 3
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 85
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 382.5
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  feelgoodinc:
+    name: 'FeelGoodInc'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'feelgoodinc.nbs'
+        volume: .5
+        multiplier: 2
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 42.5
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 74.375
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  redbone:
+    name: 'Redbone'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'redbone.nbs'
+        volume: .5
+        multiplier: 3.3333333333333
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 63.75
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 170
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_BASEDRUM'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_GUITAR'
+  oceanman:
+    name: 'OceanMan'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'oceanman.nbs'
+        volume: .5
+        multiplier: 2.5
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 42.5
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 382.5
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  thisisamerica:
+    name: 'ThisIsAmerica'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'thisisamerica.nbs'
+        volume: .5
+        multiplier: 2.5
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 42.5
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 425
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  starwars:
+    name: 'StarWars'
+    categories:
+      - 'Songs'
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'starwars.nbs'
+        volume: .5
+        multiplier: 2.5
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 318.75
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 85
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_BASS'
