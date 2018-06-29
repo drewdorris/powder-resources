@@ -1,0 +1,2498 @@
+  laughingemoji:
+    name: 'LaughingEmoji'
+    categories:
+      - 'Emojis'
+    sounds:
+      sound1:
+        soundEnum: 'BLOCK_NOTE_CHIME'
+        volume: .3
+        note: 7
+        startTime: 0
+        repeatTime: 20
+        iterations: 0
+      sound2:
+        soundEnum: 'BLOCK_NOTE_CHIME'
+        volume: .3
+        note: 9
+        startTime: 1
+        repeatTime: 20
+        iterations: 0
+      sound3:
+        soundEnum: 'BLOCK_NOTE_CHIME'
+        volume: .3
+        note: 11
+        startTime: 2
+        repeatTime: 20
+        iterations: 0
+      sound4:
+        soundEnum: 'BLOCK_NOTE_CHIME'
+        volume: .3
+        note: 13
+        startTime: 3
+        repeatTime: 20
+        iterations: 0
+      sound5:
+        soundEnum: 'BLOCK_NOTE_CHIME'
+        volume: .3
+        note: 15
+        startTime: 4
+        repeatTime: 20
+        iterations: 0
+      sound6:
+        soundEnum: 'BLOCK_NOTE_CHIME'
+        volume: .3
+        note: 17
+        startTime: 5
+        repeatTime: 20
+        iterations: 0
+      sound7:
+        soundEnum: 'BLOCK_NOTE_CHIME'
+        volume: .3
+        note: 18
+        startTime: 6
+        repeatTime: 20
+        iterations: 0
+      sound8:
+        soundEnum: 'BLOCK_NOTE_CHIME'
+        volume: .3
+        note: 19
+        startTime: 7
+        repeatTime: 20
+        iterations: 0
+    matrices:
+      matrix1:
+        spacing: .08
+        hasPitch: true
+        startTime: 0
+        repeatTime: 20
+        addedTilt: 0
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f602.png;39;39'
+              - '.'
+              - '.'
+              - '...................?.................'  
+  wearyemoji:
+    name: 'WearyEmoji'
+    categories:
+      - 'Emojis'
+    sounds:
+      sound1:
+        soundEnum: 'BLOCK_LADDER_BREAK'
+        volume: .3
+        note: 7
+        startTime: 0
+        repeatTime: 20
+        iterations: 0
+    matrices:
+      matrix1:
+        spacing: .08
+        hasPitch: true
+        startTime: 0
+        repeatTime: 20
+        addedTilt: 0
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f629.png;39;39'
+              - '.'
+              - '.'
+              - '...................?.................'
+  onehundredemoji:
+    name: '100Emoji'
+    categories:
+      - 'Emojis'
+    sounds:
+      sound1:
+        soundEnum: 'BLOCK_FIRE_EXTINGUISH'
+        volume: .1
+        note: 12
+        startTime: 0
+        repeatTime: 20
+        iterations: 0
+    matrices:
+      matrix1:
+        spacing: .09
+        hasPitch: true
+        startTime: 0
+        repeatTime: 20
+        addedTilt: 0
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f4af.png;39;39'
+              - '.'
+              - '.'
+              - '...................?.................'
+  angryemoji:
+    name: 'AngryEmoji'
+    categories:
+      - 'Emojis'
+    sounds:
+      sound1:
+        soundEnum: 'BLOCK_NOTE_GUITAR'
+        volume: .3
+        note: 7
+        startTime: 0
+        repeatTime: 20
+        iterations: 0
+    matrices:
+      matrix1:
+        spacing: .08
+        hasPitch: true
+        startTime: 0
+        repeatTime: 20
+        addedTilt: 0
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f620.png;39;39'
+              - '.'
+              - '.'
+              - '...................?.................'
+  furiousemoji:
+    name: 'FuriousEmoji'
+    categories:
+      - 'Emojis'
+    sounds:
+      sound1:
+        soundEnum: 'ENTITY_BLAZE_AMBIENT'
+        volume: .15
+        note: 7
+        startTime: 0
+        repeatTime: 20
+        iterations: 0
+    matrices:
+      matrix1:
+        spacing: .08
+        hasPitch: true
+        startTime: 0
+        repeatTime: 20
+        addedTilt: 0
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f621.png;39;39'
+              - '.'
+              - '.'
+              - '...................?.................'
+  bemoji:
+    name: 'BEmoji'
+    categories:
+      - 'Emojis'
+    sounds:
+      sound1:
+        soundEnum: 'BLOCK_NOTE_BASS'
+        volume: .6
+        note: .01
+        startTime: 0
+        repeatTime: 20
+        iterations: 0
+      sound2:
+        soundEnum: 'BLOCK_NOTE_GUITAR'
+        volume: .4
+        note: .01
+        startTime: 0
+        repeatTime: 20
+        iterations: 0
+    matrices:
+      matrix1:
+        spacing: .10
+        hasPitch: true
+        startTime: 0
+        repeatTime: 20
+        addedTilt: 0
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f171.png;39;39'
+              - '.'
+              - '.'
+              - '...................?.................'
+  heartemoji:
+    name: 'HeartEmoji'
+    categories:
+      - 'Emojis'
+    sounds:
+      sound1:
+        soundEnum: 'BLOCK_NOTE_FLUTE'
+        volume: .3
+        note: 21
+        startTime: 0
+        repeatTime: 20
+        iterations: 0
+    matrices:
+      matrix1:
+        spacing: .08
+        hasPitch: true
+        startTime: 0
+        repeatTime: 20
+        addedTilt: 0
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:2764.png;39;39'
+              - '.'
+              - '.'
+              - '...................?.................'
+  hearteyesemoji:
+    name: 'HeartEyesEmoji'
+    categories:
+      - 'Emojis'
+    sounds:
+      sound1:
+        soundEnum: 'ENTITY_DONKEY_AMBIENT'
+        volume: .3
+        note: 23
+        startTime: 0
+        repeatTime: 20
+        iterations: 0
+    matrices:
+      matrix1:
+        spacing: .08
+        hasPitch: true
+        startTime: 0
+        repeatTime: 20
+        addedTilt: 0
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f60d.png;39;39'
+              - '.'
+              - '.'
+              - '...................?.................'
+  kissemoji:
+    name: 'KissEmoji'
+    categories:
+      - 'Emojis'
+    sounds:
+      sound1:
+        soundEnum: 'ENTITY_FIREWORK_BLAST'
+        volume: .25
+        note: 24
+        startTime: 0
+        repeatTime: 20
+        iterations: 0
+    matrices:
+      matrix1:
+        spacing: .08
+        hasPitch: true
+        startTime: 0
+        repeatTime: 20
+        addedTilt: 0
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f618.png;39;39'
+              - '.'
+              - '.'
+              - '...................?.................'
+  pooemoji:
+    name: 'PooEmoji'
+    categories:
+      - 'Emojis'
+    sounds:
+      sound1:
+        soundEnum: 'ENTITY_COW_AMBIENT'
+        volume: .2
+        note: 5
+        startTime: 0
+        repeatTime: 20
+        iterations: 0
+    matrices:
+      matrix1:
+        spacing: .08
+        hasPitch: true
+        startTime: 0
+        repeatTime: 20
+        addedTilt: 0
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f4a9.png;39;39'
+              - '.'
+              - '.'
+              - '...................?.................'
+  sobbingemoji:
+    name: 'SobbingEmoji'
+    categories:
+      - 'Emojis'
+    sounds:
+      sound1:
+        soundEnum: 'ENTITY_GHAST_SCREAM'
+        volume: .07
+        note: 7
+        startTime: 0
+        repeatTime: 20
+        iterations: 0
+    matrices:
+      matrix1:
+        spacing: .08
+        hasPitch: true
+        startTime: 0
+        repeatTime: 20
+        addedTilt: 0
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f62d.png;39;39'
+              - '.'
+              - '.'
+              - '...................?.................'
+  sunglassesemoji:
+    name: 'SunglassesEmoji'
+    categories:
+      - 'Emojis'
+    sounds:
+      sound1:
+        soundEnum: 'ENTITY_GENERIC_SWIM'
+        volume: .15
+        note: 7
+        startTime: 0
+        repeatTime: 20
+        iterations: 0
+    matrices:
+      matrix1:
+        spacing: .08
+        hasPitch: true
+        startTime: 0
+        repeatTime: 20
+        addedTilt: 0
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f60e.png;39;39'
+              - '.'
+              - '.'
+              - '...................?.................'
+  thinkingemoji:
+    name: 'ThinkingEmoji'
+    categories:
+      - 'Emojis'
+    sounds:
+      sound1:
+        soundEnum: 'ENTITY_VILLAGER_TRADING'
+        volume: .2
+        note: 12
+        startTime: 0
+        repeatTime: 20
+        iterations: 0
+    matrices:
+      matrix1:
+        spacing: .08
+        hasPitch: true
+        startTime: 0
+        repeatTime: 20
+        addedTilt: 0
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f914.png;39;39'
+              - '.'
+              - '.'
+              - '...................?.................'
+  pointleftemoji:
+    name: 'PointLeftEmoji'
+    categories:
+      - 'Emojis'
+    sounds:
+      sound1:
+        soundEnum: 'BLOCK_NOTE_BELL'
+        volume: .3
+        note: 12
+        startTime: 0
+        repeatTime: 20
+        iterations: 0
+    matrices:
+      matrix1:
+        spacing: .08
+        hasPitch: true
+        startTime: 0
+        repeatTime: 20
+        addedTilt: 0
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f448.png;39;39'
+              - '.'
+              - '.'
+              - '.'
+              - '.'
+              - '...................?.................'
+  pointrightemoji:
+    name: 'PointRightEmoji'
+    categories:
+      - 'Emojis'
+    sounds:
+      sound1:
+        soundEnum: 'BLOCK_NOTE_BELL'
+        volume: .3
+        note: 14
+        startTime: 0
+        repeatTime: 20
+        iterations: 0
+    matrices:
+      matrix1:
+        spacing: .08
+        hasPitch: true
+        startTime: 0
+        repeatTime: 20
+        addedTilt: 0
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f449.png;39;39'
+              - '.'
+              - '.'
+              - '.'
+              - '.'
+              - '...................?.................'
+  pointdownemoji:
+    name: 'PointDownEmoji'
+    categories:
+      - 'Emojis'
+    sounds:
+      sound1:
+        soundEnum: 'BLOCK_NOTE_BELL'
+        volume: .3
+        note: 7
+        startTime: 0
+        repeatTime: 20
+        iterations: 0
+    matrices:
+      matrix1:
+        spacing: .08
+        hasPitch: true
+        startTime: 0
+        repeatTime: 20
+        addedTilt: 0
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f447.png;39;39'
+              - '.'
+              - '.'
+              - '.'
+              - '.'
+              - '...................?.................'
+  pointupemoji:
+    name: 'PointUpEmoji'
+    categories:
+      - 'Emojis'
+    sounds:
+      sound1:
+        soundEnum: 'BLOCK_NOTE_BELL'
+        volume: .3
+        note: 15
+        startTime: 0
+        repeatTime: 20
+        iterations: 0
+    matrices:
+      matrix1:
+        spacing: .08
+        hasPitch: true
+        startTime: 0
+        repeatTime: 20
+        addedTilt: 0
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:261d.png;39;39'
+              - '.'
+              - '.'
+              - '.'
+              - '.'
+              - '...................?.................'
+  peaceemoji:
+    name: 'PeaceEmoji'
+    categories:
+      - 'Emojis'
+    sounds:
+      sound1:
+        soundEnum: 'BLOCK_NOTE_CHIME'
+        volume: .2
+        note: 22
+        startTime: 0
+        repeatTime: 20
+        iterations: 0
+      sound2:
+        soundEnum: 'BLOCK_NOTE_CHIME'
+        volume: .2
+        note: 19
+        startTime: 2
+        repeatTime: 20
+        iterations: 0
+      sound3:
+        soundEnum: 'BLOCK_NOTE_CHIME'
+        volume: .2
+        note: 22
+        startTime: 4
+        repeatTime: 20
+        iterations: 0
+    matrices:
+      matrix1:
+        spacing: .08
+        hasPitch: true
+        startTime: 0
+        repeatTime: 20
+        addedTilt: 0
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:270c.png;39;39'
+              - '.'
+              - '.'
+              - '...................?.................'
+  callmeemoji:
+    name: 'CallMeEmoji'
+    categories:
+      - 'Emojis'
+    sounds:
+      sound1:
+        soundEnum: 'BLOCK_NOTE_CHIME'
+        volume: .25
+        note: 19
+        startTime: 0
+        repeatTime: 20
+        iterations: 0
+      sound2:
+        soundEnum: 'BLOCK_NOTE_CHIME'
+        volume: .25
+        note: 7
+        startTime: 5
+        repeatTime: 20
+        iterations: 0
+    matrices:
+      matrix1:
+        spacing: .08
+        hasPitch: true
+        startTime: 0
+        repeatTime: 20
+        addedTilt: 0
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f919.png;39;39'
+              - '.'
+              - '.'
+              - '...................?.................'
+  raisedhandemoji:
+    name: 'RaisedHandEmoji'
+    categories:
+      - 'Emojis'
+    sounds:
+      sound1:
+        soundEnum: 'BLOCK_NOTE_HARP'
+        volume: .4
+        note: 7
+        startTime: 0
+        repeatTime: 20
+        iterations: 0
+      sound2:
+        soundEnum: 'BLOCK_NOTE_HARP'
+        volume: .4
+        note: 12
+        startTime: 2
+        repeatTime: 20
+        iterations: 0
+      sound3:
+        soundEnum: 'BLOCK_NOTE_HARP'
+        volume: .4
+        note: 16
+        startTime: 4
+        repeatTime: 20
+        iterations: 0
+    matrices:
+      matrix1:
+        spacing: .08
+        hasPitch: true
+        startTime: 0
+        repeatTime: 20
+        addedTilt: 0
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:270b.png;39;39'
+              - '.'
+              - '.'
+              - '...................?.................'
+  prayemoji:
+    name: 'PrayEmoji'
+    categories:
+      - 'Emojis'
+    sounds:
+      sound1:
+        soundEnum: 'BLOCK_ENCHANTMENT_TABLE_USE'
+        volume: .2
+        note: 12
+        startTime: 0
+        repeatTime: 20
+        iterations: 0
+    matrices:
+      matrix1:
+        spacing: .08
+        hasPitch: true
+        startTime: 0
+        repeatTime: 20
+        addedTilt: 0
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f64f.png;39;39'
+              - '.'
+              - '.'
+              - '...................?.................'
+  handshakeemoji:
+    name: 'HandshakeEmoji'
+    categories:
+      - 'Emojis'
+    sounds:
+      sound1:
+        soundEnum: 'BLOCK_SAND_PLACE'
+        volume: .3
+        note: 12
+        startTime: 0
+        repeatTime: 20
+        iterations: 0
+    matrices:
+      matrix1:
+        spacing: .08
+        hasPitch: true
+        startTime: 0
+        repeatTime: 20
+        addedTilt: 0
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f91d.png;39;39'
+              - '.'
+              - '.'
+              - '...................?.................'
+  raisedhandsemoji:
+    name: 'RaisedHandsEmoji'
+    categories:
+      - 'Emojis'
+    sounds:
+      sound1:
+        soundEnum: 'ENTITY_HORSE_SADDLE'
+        volume: .2
+        note: 12
+        startTime: 0
+        repeatTime: 20
+        iterations: 0
+    matrices:
+      matrix1:
+        spacing: .08
+        hasPitch: true
+        startTime: 0
+        repeatTime: 20
+        addedTilt: 0
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f64c.png;39;39'
+              - '.'
+              - '.'
+              - '...................?.................'
+  clappingemoji:
+    name: 'ClappingEmoji'
+    categories:
+      - 'Emojis'
+    sounds:
+      sound1:
+        soundEnum: 'BLOCK_LAVA_POP'
+        volume: .3
+        note: 7
+        startTime: 0
+        repeatTime: 8
+        iterations: 0
+    matrices:
+      matrix1:
+        spacing: .08
+        hasPitch: true
+        startTime: 0
+        repeatTime: 8
+        addedTilt: 0
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f44f.png;39;39'
+              - '.'
+              - '.'
+              - '...................?.................'
+  wavingemoji:
+    name: 'WavingEmoji'
+    categories:
+      - 'Emojis'
+    sounds:
+      sound1:
+        soundEnum: 'ENTITY_VEX_AMBIENT'
+        volume: .5
+        note: 19
+        startTime: 0
+        repeatTime: 20
+        iterations: 0
+    matrices:
+      matrix1:
+        spacing: .08
+        hasPitch: true
+        startTime: 0
+        repeatTime: 20
+        addedTilt: 0
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f44b.png;39;39'
+              - '.'
+              - '.'
+              - '...................?.................'
+  writingemoji:
+    name: 'WritingEmoji'
+    categories:
+      - 'Emojis'
+    sounds:
+      sound1:
+        soundEnum: 'ITEM_SHOVEL_FLATTEN'
+        volume: .2
+        note: 12
+        startTime: 0
+        repeatTime: 20
+        iterations: 0
+    matrices:
+      matrix1:
+        spacing: .08
+        hasPitch: true
+        startTime: 0
+        repeatTime: 20
+        addedTilt: 0
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:270d.png;39;39'
+              - '.'
+              - '.'
+              - '...................?.................'
+  envelopeemoji:
+    name: 'EnvelopeEmoji'
+    categories:
+      - 'Emojis'
+    sounds:
+      sound1:
+        soundEnum: 'BLOCK_CLOTH_PLACE'
+        volume: .2
+        note: 12
+        startTime: 0
+        repeatTime: 20
+        iterations: 0
+      sound2:
+        soundEnum: 'BLOCK_CLOTH_PLACE'
+        volume: .2
+        note: 19
+        startTime: 0
+        repeatTime: 20
+        iterations: 0
+    matrices:
+      matrix1:
+        spacing: .08
+        hasPitch: true
+        startTime: 0
+        repeatTime: 20
+        addedTilt: 0
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:2709.png;39;39'
+              - '.'
+              - '.'
+              - '...................?.................'
+  questionmarkemoji:
+    name: 'QuestionMarkEmoji'
+    categories:
+      - 'Emojis'
+    sounds:
+      sound1:
+        soundEnum: 'BLOCK_NOTE_XYLOPHONE'
+        volume: .2
+        note: 19
+        startTime: 0
+        repeatTime: 20
+        iterations: 0
+      sound2:
+        soundEnum: 'BLOCK_NOTE_XYLOPHONE'
+        volume: .2
+        note: 20
+        startTime: 0
+        repeatTime: 20
+        iterations: 0
+    matrices:
+      matrix1:
+        spacing: .08
+        hasPitch: true
+        startTime: 0
+        repeatTime: 20
+        addedTilt: 0
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:2753.png;39;39'
+              - '.'
+              - '.'
+              - '...................?.................'
+  nosmokingemoji:
+    name: 'NoSmokingEmoji'
+    categories:
+      - 'Emojis'
+    sounds:
+      sound1:
+        soundEnum: 'BLOCK_FIRE_EXTINGUISH'
+        volume: .05
+        note: 24
+        startTime: 0
+        repeatTime: 20
+        iterations: 0
+      sound1:
+        soundEnum: 'BLOCK_NOTE_HARP'
+        volume: .2
+        note: 7
+        startTime: 5
+        repeatTime: 20
+        iterations: 0
+      sound1:
+        soundEnum: 'BLOCK_NOTE_HARP'
+        volume: .2
+        note: 7.8
+        startTime: 5
+        repeatTime: 20
+        iterations: 0
+    matrices:
+      matrix1:
+        spacing: .08
+        hasPitch: true
+        startTime: 0
+        repeatTime: 20
+        addedTilt: 0
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f6ad.png;39;39'
+              - '.'
+              - '.'
+              - '...................?.................'
+  noentryemoji:
+    name: 'NoEntryEmoji'
+    categories:
+      - 'Emojis'
+    sounds:
+      sound1:
+        soundEnum: 'BLOCK_NOTE_HARP'
+        volume: .2
+        note: 7
+        startTime: 0
+        repeatTime: 20
+        iterations: 0
+      sound2:
+        soundEnum: 'BLOCK_NOTE_HARP'
+        volume: .2
+        note: 7.8
+        startTime: 0
+        repeatTime: 20
+        iterations: 0
+    matrices:
+      matrix1:
+        spacing: .08
+        hasPitch: true
+        startTime: 0
+        repeatTime: 20
+        addedTilt: 0
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:26d4.png;39;39'
+              - '.'
+              - '.'
+              - '...................?.................'
+  keyemoji:
+    name: 'KeyEmoji'
+    categories:
+      - 'Emojis'
+    sounds:
+      sound1:
+        soundEnum: 'ITEM_SHIELD_BREAK'
+        volume: .2
+        note: 24
+        startTime: 0
+        repeatTime: 20
+        iterations: 0
+    matrices:
+      matrix1:
+        spacing: .08
+        hasPitch: true
+        startTime: 0
+        repeatTime: 20
+        addedTilt: 0
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f511.png;39;39'
+              - '.'
+              - '.'
+              - '...................?.................'
+  unlockemoji:
+    name: 'UnlockEmoji'
+    categories:
+      - 'Emojis'
+    sounds:
+      sound1:
+        soundEnum: 'ITEM_ARMOR_EQUIP_GENERIC'
+        volume: .2
+        note: 12
+        startTime: 0
+        repeatTime: 20
+        iterations: 0
+    matrices:
+      matrix1:
+        spacing: .08
+        hasPitch: true
+        startTime: 0
+        repeatTime: 20
+        addedTilt: 0
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f513.png;39;39'
+              - '.'
+              - '.'
+              - '...................?.................'
+  lockemoji:
+    name: 'LockEmoji'
+    categories:
+      - 'Emojis'
+    sounds:
+      sound1:
+        soundEnum: 'ENTITY_HORSE_SADDLE'
+        volume: .2
+        note: 12
+        startTime: 0
+        repeatTime: 20
+        iterations: 0
+    matrices:
+      matrix1:
+        spacing: .08
+        hasPitch: true
+        startTime: 0
+        repeatTime: 20
+        addedTilt: 0
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f512.png;39;39'
+              - '.'
+              - '.'
+              - '...................?.................'
+  hammeremoji:
+    name: 'HammerEmoji'
+    categories:
+      - 'Emojis'
+    sounds:
+      sound1:
+        soundEnum: 'BLOCK_ANVIL_USE'
+        volume: .25
+        note: 12
+        startTime: 0
+        repeatTime: 20
+        iterations: 0
+      sound2:
+        soundEnum: 'BLOCK_ANVIL_USE'
+        volume: .25
+        note: 12
+        startTime: 5
+        repeatTime: 20
+        iterations: 0
+    matrices:
+      matrix1:
+        spacing: .08
+        hasPitch: true
+        startTime: 0
+        repeatTime: 20
+        addedTilt: 0
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f528.png;39;39'
+              - '.'
+              - '.'
+              - '...................?.................'
+  trumpetemoji:
+    name: 'TrumpetEmoji'
+    categories:
+      - 'Emojis'
+    sounds:
+      sound1:
+        soundEnum: 'BLOCK_NOTE_FLUTE'
+        volume: .2
+        note: .05
+        startTime: 0
+        repeatTime: 20
+        iterations: 0
+      sound2:
+        soundEnum: 'BLOCK_NOTE_HAT'
+        volume: .2
+        note: 24
+        startTime: 0
+        repeatTime: 20
+        iterations: 0
+    matrices:
+      matrix1:
+        spacing: .08
+        hasPitch: true
+        startTime: 0
+        repeatTime: 20
+        addedTilt: 0
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f3ba.png;39;39'
+              - '.'
+              - '.'
+              - '...................?.................'
+  saxophoneemoji:
+    name: 'SaxophoneEmoji'
+    categories:
+      - 'Emojis'
+    sounds:
+      sound1:
+        soundEnum: 'BLOCK_NOTE_GUITAR'
+        volume: .2
+        note: 24
+        startTime: 0
+        repeatTime: 20
+        iterations: 0
+      sound2:
+        soundEnum: 'BLOCK_NOTE_FLUTE'
+        volume: .2
+        note: 24
+        startTime: 0
+        repeatTime: 20
+        iterations: 0
+    matrices:
+      matrix1:
+        spacing: .08
+        hasPitch: true
+        startTime: 0
+        repeatTime: 20
+        addedTilt: 0
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f3b7.png;39;39'
+              - '.'
+              - '.'
+              - '...................?.................'
+  musicemoji:
+    name: 'MusicEmoji'
+    categories:
+      - 'Emojis'
+    sounds:
+      sound1:
+        soundEnum: 'BLOCK_NOTE_CHIME'
+        volume: .2
+        note: 12
+        startTime: 0
+        repeatTime: 20
+        iterations: 0
+      sound2:
+        soundEnum: 'BLOCK_NOTE_CHIME'
+        volume: .2
+        note: 16
+        startTime: 0
+        repeatTime: 20
+        iterations: 0
+      sound3:
+        soundEnum: 'BLOCK_NOTE_CHIME'
+        volume: .2
+        note: 19
+        startTime: 0
+        repeatTime: 20
+        iterations: 0
+    matrices:
+      matrix1:
+        spacing: .08
+        hasPitch: true
+        startTime: 0
+        repeatTime: 20
+        addedTilt: 0
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f3b5.png;39;39'
+              - '.'
+              - '.'
+              - '...................?.................'
+  keyboardemoji:
+    name: 'KeyboardEmoji'
+    categories:
+      - 'Emojis'
+    sounds:
+      sound1:
+        soundEnum: 'BLOCK_STONE_STEP'
+        volume: .2
+        note: 12
+        startTime: 0
+        repeatTime: 20
+        iterations: 0
+      sound2:
+        soundEnum: 'BLOCK_STONE_BREAK'
+        volume: .2
+        note: 12
+        startTime: 1
+        repeatTime: 20
+        iterations: 0
+      sound3:
+        soundEnum: 'BLOCK_STONE_HIT'
+        volume: .2
+        note: 12
+        startTime: 3
+        repeatTime: 20
+        iterations: 0
+      sound4:
+        soundEnum: 'BLOCK_STONE_BREAK'
+        volume: .2
+        note: 12
+        startTime: 4
+        repeatTime: 20
+        iterations: 0
+      sound5:
+        soundEnum: 'BLOCK_STONE_STEP'
+        volume: .2
+        note: 12
+        startTime: 6
+        repeatTime: 20
+        iterations: 0
+      sound6:
+        soundEnum: 'BLOCK_STONE_HIT'
+        volume: .2
+        note: 12
+        startTime: 8
+        repeatTime: 20
+        iterations: 0
+      sound7:
+        soundEnum: 'BLOCK_STONE_STEP'
+        volume: .2
+        note: 12
+        startTime: 9
+        repeatTime: 20
+        iterations: 0
+      sound8:
+        soundEnum: 'BLOCK_STONE_BREAK'
+        volume: .2
+        note: 12
+        startTime: 12
+        repeatTime: 20
+        iterations: 0
+      sound9:
+        soundEnum: 'BLOCK_STONE_STEP'
+        volume: .2
+        note: 12
+        startTime: 13
+        repeatTime: 20
+        iterations: 0
+      sound10:
+        soundEnum: 'BLOCK_STONE_HIT'
+        volume: .2
+        note: 12
+        startTime: 16
+        repeatTime: 20
+        iterations: 0
+      sound11:
+        soundEnum: 'BLOCK_STONE_STEP'
+        volume: .2
+        note: 12
+        startTime: 17
+        repeatTime: 20
+        iterations: 0
+      sound12:
+        soundEnum: 'BLOCK_STONE_BREAK'
+        volume: .2
+        note: 12
+        startTime: 19
+        repeatTime: 20
+        iterations: 0
+    matrices:
+      matrix1:
+        spacing: .08
+        hasPitch: true
+        startTime: 0
+        repeatTime: 20
+        addedTilt: 0
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:2328.png;39;39'
+              - '.'
+              - '.'
+              - '...................?.................'
+  airplaneemoji:
+    name: 'AirplaneEmoji'
+    categories:
+      - 'Emojis'
+    sounds:
+      sound1:
+        soundEnum: 'ITEM_ELYTRA_FLYING'
+        volume: .15
+        note: 24
+        startTime: 0
+        repeatTime: 20
+        iterations: 0
+    matrices:
+      matrix1:
+        spacing: .08
+        hasPitch: true
+        startTime: 0
+        repeatTime: 20
+        addedTilt: 0
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:2708.png;39;39'
+              - '.'
+              - '.'
+              - '...................?.................'
+  trafficlightemoji:
+    name: 'TrafficLightEmoji'
+    categories:
+      - 'Emojis'
+    sounds:
+      sound1:
+        soundEnum: 'BLOCK_NOTE_CHIME'
+        volume: .2
+        note: .05
+        startTime: 0
+        repeatTime: 20
+        iterations: 0
+    matrices:
+      matrix1:
+        spacing: .08
+        hasPitch: true
+        startTime: 0
+        repeatTime: 20
+        addedTilt: 0
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f6a6.png;39;39'
+              - '.'
+              - '.'
+              - '...................?.................'
+  speechbubbleemoji:
+    name: 'SpeechBubbleEmoji'
+    categories:
+      - 'Emojis'
+    sounds:
+      sound1:
+        soundEnum: 'ENTITY_ENDERMITE_AMBIENT'
+        volume: .15
+        note: 8
+        startTime: 0
+        repeatTime: 20
+        iterations: 0
+    matrices:
+      matrix1:
+        spacing: .08
+        hasPitch: true
+        startTime: 0
+        repeatTime: 20
+        addedTilt: 0
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f4ac.png;39;39'
+              - '.'
+              - '.'
+              - '.'
+              - '?.................'
+  blushemoji:
+    name: 'BlushEmoji'
+    categories:
+      - 'Emojis'
+    sounds:
+      sound1:
+        soundEnum: 'ITEM_SHOVEL_FLATTEN'
+        volume: .2
+        note: 24
+        startTime: 0
+        repeatTime: 20
+        iterations: 0
+    matrices:
+      matrix1:
+        spacing: .08
+        hasPitch: true
+        startTime: 0
+        repeatTime: 20
+        addedTilt: 0
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:263a.png;39;39'
+              - '.'
+              - '.'
+              - '...................?.................'
+  smirkemoji:
+    name: 'SmirkEmoji'
+    categories:
+      - 'Emojis'
+    sounds:
+      sound1:
+        soundEnum: 'ENTITY_WITCH_AMBIENT'
+        volume: .2
+        note: 12
+        startTime: 0
+        repeatTime: 20
+        iterations: 0
+    matrices:
+      matrix1:
+        spacing: .08
+        hasPitch: true
+        startTime: 0
+        repeatTime: 20
+        addedTilt: 0
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f60f.png;39;39'
+              - '.'
+              - '.'
+              - '...................?.................'
+  boringemoji:
+    name: 'BoringEmoji'
+    categories:
+      - 'Emojis'
+    sounds:
+      sound1:
+        soundEnum: 'ENTITY_ZOMBIE_AMBIENT'
+        volume: .1
+        note: 24
+        startTime: 0
+        repeatTime: 20
+        iterations: 0
+    matrices:
+      matrix1:
+        spacing: .08
+        hasPitch: true
+        startTime: 0
+        repeatTime: 20
+        addedTilt: 0
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f610.png;39;39'
+              - '.'
+              - '.'
+              - '...................?.................'
+  fireemoji:
+    name: 'FireEmoji'
+    categories:
+      - 'Emojis'
+    sounds:
+      sound1:
+        soundEnum: 'ENTITY_GENERIC_BURN'
+        volume: .15
+        note: 12
+        startTime: 0
+        repeatTime: 20
+        iterations: 0
+    matrices:
+      matrix1:
+        spacing: .08
+        hasPitch: true
+        startTime: 0
+        repeatTime: 20
+        addedTilt: 0
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f525.png;39;39'
+              - '.'
+              - '.'
+              - '...................?.................'
+  tonguewithwinkemoji:
+    name: 'TongueWithWinkEmoji'
+    categories:
+      - 'Emojis'
+    sounds:
+      sound1:
+        soundEnum: 'BLOCK_WATERLILY_PLACE'
+        volume: .25
+        note: 12
+        startTime: 0
+        repeatTime: 20
+        iterations: 0
+    matrices:
+      matrix1:
+        spacing: .08
+        hasPitch: true
+        startTime: 0
+        repeatTime: 20
+        addedTilt: 0
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f61c.png;39;39'
+              - '.'
+              - '.'
+              - '...................?.................'
+  frownemoji:
+    name: 'FrownEmoji'
+    categories:
+      - 'Emojis'
+    sounds:
+      sound1:
+        soundEnum: 'ENTITY_WITCH_AMBIENT'
+        volume: .1
+        note: 6
+        startTime: 0
+        repeatTime: 20
+        iterations: 0
+    matrices:
+      matrix1:
+        spacing: .08
+        hasPitch: true
+        startTime: 0
+        repeatTime: 20
+        addedTilt: 0
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f626.png;39;39'
+              - '.'
+              - '.'
+              - '...................?.................'
+  babyemoji:
+    name: 'BabyEmoji'
+    categories:
+      - 'Emojis'
+    sounds:
+      sound1:
+        soundEnum: 'ENTITY_PLAYER_BURP'
+        volume: .2
+        note: 24
+        startTime: 0
+        repeatTime: 20
+        iterations: 0
+    matrices:
+      matrix1:
+        spacing: .08
+        hasPitch: true
+        startTime: 0
+        repeatTime: 20
+        addedTilt: 0
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f476.png;39;39'
+              - '.'
+              - '.'
+              - '...................?.................'
+  sleepingemoji:
+    name: 'SleepingEmoji'
+    categories:
+      - 'Emojis'
+    sounds:
+      sound1:
+        soundEnum: 'ENTITY_PIG_AMBIENT'
+        volume: .08
+        note: 1
+        startTime: 0
+        repeatTime: 20
+        iterations: 0
+    matrices:
+      matrix1:
+        spacing: .08
+        hasPitch: true
+        startTime: 0
+        repeatTime: 20
+        addedTilt: 0
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f634.png;39;39'
+              - '.'
+              - '.'
+              - '...................?.................'
+  curseemoji:
+    name: 'CursingEmoji'
+    categories:
+      - 'Emojis'
+    sounds:
+      sound1:
+        soundEnum: 'ENTITY_ENDERMEN_DEATH'
+        volume: .05
+        note: 24
+        startTime: 0
+        repeatTime: 20
+        iterations: 0
+    matrices:
+      matrix1:
+        spacing: .08
+        hasPitch: true
+        startTime: 0
+        repeatTime: 20
+        addedTilt: 0
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f92c.png;39;39'
+              - '.'
+              - '.'
+              - '...................?.................'
+  winkemoji:
+    name: 'WinkEmoji'
+    categories:
+      - 'Emojis'
+    sounds:
+      sound1:
+        soundEnum: 'BLOCK_NOTE_CHIME'
+        volume: .15
+        note: 24
+        startTime: 0
+        repeatTime: 20
+        iterations: 0
+    matrices:
+      matrix1:
+        spacing: .08
+        hasPitch: true
+        startTime: 0
+        repeatTime: 20
+        addedTilt: 0
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f609.png;39;39'
+              - '.'
+              - '.'
+              - '...................?.................'
+  smileemoji:
+    name: 'SmileEmoji'
+    categories:
+      - 'Emojis'
+    sounds:
+      sound1:
+        soundEnum: 'BLOCK_NOTE_CHIME'
+        volume: .3
+        note: 14
+        startTime: 0
+        repeatTime: 20
+        iterations: 0
+      sound2:
+        soundEnum: 'BLOCK_NOTE_CHIME'
+        volume: .3
+        note: 16
+        startTime: 1
+        repeatTime: 20
+        iterations: 0
+      sound3:
+        soundEnum: 'BLOCK_NOTE_CHIME'
+        volume: .3
+        note: 19
+        startTime: 2
+        repeatTime: 20
+        iterations: 0
+    matrices:
+      matrix1:
+        spacing: .08
+        hasPitch: true
+        startTime: 0
+        repeatTime: 20
+        addedTilt: 0
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f604.png;39;39'
+              - '.'
+              - '.'
+              - '...................?.................'
+  thumbsupemoji:
+    name: 'ThumbsUpEmoji'
+    categories:
+      - 'Emojis'
+    sounds:
+      sound1:
+        soundEnum: 'BLOCK_NOTE_HARP'
+        volume: .4
+        note: 12
+        startTime: 0
+        repeatTime: 20
+        iterations: 0
+      sound2:
+        soundEnum: 'BLOCK_NOTE_HARP'
+        volume: .4
+        note: 19
+        startTime: 4
+        repeatTime: 20
+        iterations: 0
+    matrices:
+      matrix1:
+        spacing: .08
+        hasPitch: true
+        startTime: 0
+        repeatTime: 20
+        addedTilt: 0
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f44d.png;39;39'
+              - '.'
+              - '.'
+              - '...................?.................'
+  thumbsdownemoji:
+    name: 'ThumbsDownEmoji'
+    categories:
+      - 'Emojis'
+    sounds:
+      sound1:
+        soundEnum: 'BLOCK_NOTE_HARP'
+        volume: .4
+        note: 19
+        startTime: 0
+        repeatTime: 20
+        iterations: 0
+      sound2:
+        soundEnum: 'BLOCK_NOTE_HARP'
+        volume: .4
+        note: 12
+        startTime: 4
+        repeatTime: 20
+        iterations: 0
+    matrices:
+      matrix1:
+        spacing: .08
+        hasPitch: true
+        startTime: 0
+        repeatTime: 20
+        addedTilt: 0
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f44e.png;39;39'
+              - '.'
+              - '.'
+              - '...................?.................'
+  okhandemoji:
+    name: 'OKHandEmoji'
+    categories:
+      - 'Emojis'
+    sounds:
+      sound1:
+        soundEnum: 'UI_TOAST_IN'
+        volume: 1
+        note: 12
+        startTime: 0
+        repeatTime: 20
+        iterations: 0
+    matrices:
+      matrix1:
+        spacing: .08
+        hasPitch: true
+        startTime: 0
+        repeatTime: 20
+        addedTilt: 0
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f44c.png;39;39'
+              - '.'
+              - '.'
+              - '...................?.................'
+  agreeemoji:
+    name: 'AgreeEmoji'
+    categories:
+      - 'Emojis'
+    sounds:
+      sound1:
+        soundEnum: 'ENTITY_VILLAGER_YES'
+        volume: .3
+        note: 12
+        startTime: 0
+        repeatTime: 20
+        iterations: 0
+    matrices:
+      matrix1:
+        spacing: .08
+        hasPitch: true
+        startTime: 0
+        repeatTime: 20
+        addedTilt: 0
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:2705.png;39;39'
+              - '.'
+              - '.'
+              - '...................?.................'
+  disagreeemoji:
+    name: 'DisagreeEmoji'
+    categories:
+      - 'Emojis'
+    sounds:
+      sound1:
+        soundEnum: 'ENTITY_VILLAGER_NO'
+        volume: .3
+        note: 12
+        startTime: 0
+        repeatTime: 20
+        iterations: 0
+    matrices:
+      matrix1:
+        spacing: .08
+        hasPitch: true
+        startTime: 0
+        repeatTime: 20
+        addedTilt: 0
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:274c.png;39;39'
+              - '.'
+              - '.'
+              - '...................?.................'
+  flagusa:
+    name: 'FlagUSA'
+    categories:
+      - 'Flags'
+    matrices:
+      matrix1:
+        spacing: .12
+        hasPitch: true
+        startTime: 0
+        addedPitch: 0
+        addedRotation: 0
+        repeatTime: 30
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f1fa-1f1f8.png;39;39'
+              - '...................?'
+  flagru:
+    name: 'FlagRussia'
+    categories:
+      - 'Flags'
+    matrices:
+      matrix1:
+        spacing: .12
+        hasPitch: true
+        startTime: 0
+        addedPitch: 0
+        addedRotation: 0
+        repeatTime: 30
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f1f7-1f1fa.png;39;39'
+              - '...................?'
+  flagpl:
+    name: 'FlagPoland'
+    categories:
+      - 'Flags'
+    matrices:
+      matrix1:
+        spacing: .12
+        hasPitch: true
+        startTime: 0
+        addedPitch: 0
+        addedRotation: 0
+        repeatTime: 30
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f1f5-1f1f1.png;39;39'
+              - '...................?'
+  flagnz:
+    name: 'FlagNewZealand'
+    categories:
+      - 'Flags'
+    matrices:
+      matrix1:
+        spacing: .12
+        hasPitch: true
+        startTime: 0
+        addedPitch: 0
+        addedRotation: 0
+        repeatTime: 30
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f1f3-1f1ff.png;39;39'
+              - '...................?'
+  flagno:
+    name: 'FlagNorway'
+    categories:
+      - 'Flags'
+    matrices:
+      matrix1:
+        spacing: .12
+        hasPitch: true
+        startTime: 0
+        addedPitch: 0
+        addedRotation: 0
+        repeatTime: 30
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f1f3-1f1f4.png;39;39'
+              - '...................?'
+  flagnl:
+    name: 'FlagNetherlands'
+    categories:
+      - 'Flags'
+    matrices:
+      matrix1:
+        spacing: .12
+        hasPitch: true
+        startTime: 0
+        addedPitch: 0
+        addedRotation: 0
+        repeatTime: 30
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f1f3-1f1f1.png;39;39'
+              - '...................?'
+  flagmx:
+    name: 'FlagMexico'
+    categories:
+      - 'Flags'
+    matrices:
+      matrix1:
+        spacing: .12
+        hasPitch: true
+        startTime: 0
+        addedPitch: 0
+        addedRotation: 0
+        repeatTime: 30
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f1f2-1f1fd.png;39;39'
+              - '...................?'
+  flagjp:
+    name: 'FlagJapan'
+    categories:
+      - 'Flags'
+    matrices:
+      matrix1:
+        spacing: .12
+        hasPitch: true
+        startTime: 0
+        addedPitch: 0
+        addedRotation: 0
+        repeatTime: 30
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f1ef-1f1f5.png;39;39'
+              - '...................?'
+  flaggb:
+    name: 'FlagGB'
+    categories:
+      - 'Flags'
+    matrices:
+      matrix1:
+        spacing: .12
+        hasPitch: true
+        startTime: 0
+        addedPitch: 0
+        addedRotation: 0
+        repeatTime: 30
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f1ec-1f1e7.png;39;39'
+              - '...................?'
+  flagfr:
+    name: 'FlagFrance'
+    categories:
+      - 'Flags'
+    matrices:
+      matrix1:
+        spacing: .12
+        hasPitch: true
+        startTime: 0
+        addedPitch: 0
+        addedRotation: 0
+        repeatTime: 30
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f1eb-1f1f7.png;39;39'
+              - '...................?'
+  flagde:
+    name: 'FlagGermany'
+    categories:
+      - 'Flags'
+    matrices:
+      matrix1:
+        spacing: .12
+        hasPitch: true
+        startTime: 0
+        addedPitch: 0
+        addedRotation: 0
+        repeatTime: 30
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f1e9-1f1ea.png;39;39'
+              - '...................?'
+  flagcn:
+    name: 'FlagChina'
+    categories:
+      - 'Flags'
+    matrices:
+      matrix1:
+        spacing: .12
+        hasPitch: true
+        startTime: 0
+        addedPitch: 0
+        addedRotation: 0
+        repeatTime: 30
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f1e8-1f1f3;39;39'
+              - '...................?'
+  flagca:
+    name: 'FlagCanada'
+    categories:
+      - 'Flags'
+    matrices:
+      matrix1:
+        spacing: .12
+        hasPitch: true
+        startTime: 0
+        addedPitch: 0
+        addedRotation: 0
+        repeatTime: 30
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f1e8-1f1e6.png;39;39'
+              - '...................?'
+  flagbr:
+    name: 'FlagBrazil'
+    categories:
+      - 'Flags'
+    matrices:
+      matrix1:
+        spacing: .12
+        hasPitch: true
+        startTime: 0
+        addedPitch: 0
+        addedRotation: 0
+        repeatTime: 30
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f1e7-1f1f7.png;39;39'
+              - '...................?'
+  flagbe:
+    name: 'FlagBelgium'
+    categories:
+      - 'Flags'
+    matrices:
+      matrix1:
+        spacing: .12
+        hasPitch: true
+        startTime: 0
+        addedPitch: 0
+        addedRotation: 0
+        repeatTime: 30
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f1e7-1f1ea.png;39;39'
+              - '...................?'
+  flagau:
+    name: 'FlagAustralia'
+    categories:
+      - 'Flags'
+    matrices:
+      matrix1:
+        spacing: .12
+        hasPitch: true
+        startTime: 0
+        addedPitch: 0
+        addedRotation: 0
+        repeatTime: 30
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f1e6-1f1fa.png;39;39'
+              - '...................?'
+  flagkp:
+    name: 'FlagNorthKorea'
+    categories:
+      - 'Flags'
+    matrices:
+      matrix1:
+        spacing: .12
+        hasPitch: true
+        startTime: 0
+        addedPitch: 0
+        addedRotation: 0
+        repeatTime: 30
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f1f0-1f1f5.png;39;39'
+              - '...................?'
+  flagfn:
+    name: 'FlagFinland'
+    categories:
+      - 'Flags'
+    matrices:
+      matrix1:
+        spacing: .12
+        hasPitch: true
+        startTime: 0
+        addedPitch: 0
+        addedRotation: 0
+        repeatTime: 30
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f1eb-1f1ee.png;39;39'
+              - '...................?'
+  flagit:
+    name: 'FlagItaly'
+    categories:
+      - 'Flags'
+    matrices:
+      matrix1:
+        spacing: .12
+        hasPitch: true
+        startTime: 0
+        addedPitch: 0
+        addedRotation: 0
+        repeatTime: 30
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f1ee-1f1f9.png;39;39'
+              - '...................?'
+  flageu:
+    name: 'FlagEurope'
+    categories:
+      - 'Flags'
+    matrices:
+      matrix1:
+        spacing: .12
+        hasPitch: true
+        startTime: 0
+        addedPitch: 0
+        addedRotation: 0
+        repeatTime: 30
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f1ea-1f1fa.png;39;39'
+              - '...................?'
+  flagantarctica:
+    name: 'FlagAntarctica'
+    categories:
+      - 'Flags'
+    matrices:
+      matrix1:
+        spacing: .12
+        hasPitch: true
+        startTime: 0
+        addedPitch: 0
+        addedRotation: 0
+        repeatTime: 30
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f1e6-1f1f6.png;39;39'
+              - '...................?'
+  flagtr:
+    name: 'FlagTurkey'
+    categories:
+      - 'Flags'
+    matrices:
+      matrix1:
+        spacing: .12
+        hasPitch: true
+        startTime: 0
+        addedPitch: 0
+        addedRotation: 0
+        repeatTime: 30
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f1f9-1f1f7.png;39;39'
+              - '...................?'
+  flagsa:
+    name: 'FlagSaudiArabia'
+    categories:
+      - 'Flags'
+    matrices:
+      matrix1:
+        spacing: .12
+        hasPitch: true
+        startTime: 0
+        addedPitch: 0
+        addedRotation: 0
+        repeatTime: 30
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f1f8-1f1e6.png;39;39'
+              - '...................?'
+  flagkr:
+    name: 'FlagSouthKorea'
+    categories:
+      - 'Flags'
+    matrices:
+      matrix1:
+        spacing: .12
+        hasPitch: true
+        startTime: 0
+        addedPitch: 0
+        addedRotation: 0
+        repeatTime: 30
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f1f0-1f1f7.png;39;39'
+              - '...................?'
+  flagza:
+    name: 'FlagSouthAfrica'
+    categories:
+      - 'Flags'
+    matrices:
+      matrix1:
+        spacing: .12
+        hasPitch: true
+        startTime: 0
+        addedPitch: 0
+        addedRotation: 0
+        repeatTime: 30
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f1ff-1f1e6.png;39;39'
+              - '...................?'
+  flagvz:
+    name: 'FlagVenezuela'
+    categories:
+      - 'Flags'
+    matrices:
+      matrix1:
+        spacing: .12
+        hasPitch: true
+        startTime: 0
+        addedPitch: 0
+        addedRotation: 0
+        repeatTime: 30
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f1fb-1f1ea.png;39;39'
+              - '...................?'
+  flagin:
+    name: 'FlagIndia'
+    categories:
+      - 'Flags'
+    matrices:
+      matrix1:
+        spacing: .12
+        hasPitch: true
+        startTime: 0
+        addedPitch: 0
+        addedRotation: 0
+        repeatTime: 30
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f1ee-1f1f3.png;39;39'
+              - '...................?'
+  flagnp:
+    name: 'FlagNepal'
+    categories:
+      - 'Flags'
+    matrices:
+      matrix1:
+        spacing: .12
+        hasPitch: true
+        startTime: 0
+        addedPitch: 0
+        addedRotation: 0
+        repeatTime: 30
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f1f3-1f1f5.png;39;39'
+              - '...................?'
+  flagir:
+    name: 'FlagIreland'
+    categories:
+      - 'Flags'
+    matrices:
+      matrix1:
+        spacing: .12
+        hasPitch: true
+        startTime: 0
+        addedPitch: 0
+        addedRotation: 0
+        repeatTime: 30
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f1ee-1f1ea.png;39;39'
+              - '...................?'
+  flaggm:
+    name: 'FlagGambia'
+    categories:
+      - 'Flags'
+    matrices:
+      matrix1:
+        spacing: .12
+        hasPitch: true
+        startTime: 0
+        addedPitch: 0
+        addedRotation: 0
+        repeatTime: 30
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f1ec-1f1f2.png;39;39'
+              - '...................?'
+  flagil:
+    name: 'FlagIsrael'
+    categories:
+      - 'Flags'
+    matrices:
+      matrix1:
+        spacing: .12
+        hasPitch: true
+        startTime: 0
+        addedPitch: 0
+        addedRotation: 0
+        repeatTime: 30
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f1ee-1f1f1.png;39;39'
+              - '...................?'
+  flagpt:
+    name: 'FlagPalestine'
+    categories:
+      - 'Flags'
+    matrices:
+      matrix1:
+        spacing: .12
+        hasPitch: true
+        startTime: 0
+        addedPitch: 0
+        addedRotation: 0
+        repeatTime: 30
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f1f5-1f1f9.png;39;39'
+              - '...................?'
+  flagsw:
+    name: 'FlagSweden'
+    categories:
+      - 'Flags'
+    matrices:
+      matrix1:
+        spacing: .12
+        hasPitch: true
+        startTime: 0
+        addedPitch: 0
+        addedRotation: 0
+        repeatTime: 30
+        iterations: 0
+        layers:
+          layer1:
+            position: 0
+            layerMatrix:
+              - 'img:1f1f8-1f1ea.png;39;39'
+              - '...................?'
