@@ -3644,3 +3644,3074 @@ powders:
         span: .8
         attachToNote: true
         attachedToNote: 'BLOCK_NOTE_BASS'
+  plasticlove:
+    name: 'PlasticLove'
+    categories:
+      - 'Songs'
+    hidden: true
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'ruinscraft.com/uploads/powder/nbs/plasticlove.nbs'
+        volume: .5
+        multiplier: 3
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 244.375
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 318.75
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_BASS'
+  athousandmiles:
+    name: 'AThousandMiles'
+    categories:
+      - 'Songs'
+    hidden: true
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'ruinscraft.com/uploads/powder/nbs/athousandmiles.nbs'
+        volume: .5
+        multiplier: 3
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        note: 4
+      change2:
+        particleChar: 'B'
+        note: 3
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  september:
+    name: 'September'
+    categories:
+      - 'Songs'
+    hidden: true
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'ruinscraft.com/uploads/powder/nbs/september.nbs'
+        volume: .5
+        multiplier: 2.5
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 180.625
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 74.375
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  megalovania:
+    name: 'Megalovania'
+    categories:
+      - 'Songs'
+    hidden: true
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'ruinscraft.com/uploads/powder/nbs/megalovania.nbs'
+        volume: .5
+        multiplier: 2.5
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        note: 4
+      change2:
+        particleChar: 'B'
+        note: 3
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  miichannel:
+    name: 'MiiChannel'
+    categories:
+      - 'Songs'
+    hidden: true
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'ruinscraft.com/uploads/powder/nbs/miichannel.nbs'
+        volume: .5
+        multiplier: 2.5
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 180.625
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 74.375
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  sovietanthem:
+    name: 'SovietAnthem'
+    categories:
+      - 'Songs'
+    hidden: true
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'ruinscraft.com/uploads/powder/nbs/sovietanthem.nbs'
+        volume: .5
+        multiplier: 3.33
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 180.625
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 74.375
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  wethands:
+    name: 'WetHands'
+    categories:
+      - 'Songs'
+    hidden: true
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'ruinscraft.com/uploads/powder/nbs/wethands.nbs'
+        volume: .5
+        multiplier: 3.33
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 180.625
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 74.375
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  hitormiss:
+    name: 'HitOrMiss'
+    categories:
+      - 'Songs'
+    hidden: true
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'ruinscraft.com/uploads/powder/nbs/hitormiss.nbs'
+        volume: .5
+        multiplier: 2
+        startTime: 0
+        repeatTime: 270
+        iterations: 0
+    changes:
+      change1:
+        particleChar: 'A'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 244.375
+        yOffset: 0
+        zOffset: 0
+        data: 1
+      change2:
+        particleChar: 'B'
+        particleEnum: 'NOTE'
+        amount: 0
+        xOffset: 318.75
+        yOffset: 0
+        zOffset: 0
+        data: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_BASS'
+  charliebrownthanksgiving:
+    name: 'CharlieBrown'
+    categories:
+      - 'Songs'
+    hidden: true
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'ruinscraft.com/uploads/powder/nbs/charliebrownthanksgiving.nbs'
+        volume: .5
+        multiplier: 1.666
+        startTime: 0
+        repeatTime: 880
+        iterations: 0
+    changes:
+      change1:
+        particleChar: 'A'
+        note: 8
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+  babyimyours:
+    name: 'BabyImYours'
+    categories:
+      - 'Songs'
+    hidden: true
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'ruinscraft.com/uploads/powder/nbs/babyimyours.nbs'
+        volume: .5
+        multiplier: 2.5
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'B'
+        note: 12
+      change2:
+        particleChar: 'C'
+        note: 16
+    dusts:
+      dust1:
+        particleChar: C
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+      dust3:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_FLUTE'
+  boulevardofbrokendreams:
+    name: 'BoulevardOfBrokenDreams'
+    categories:
+      - 'Songs'
+    hidden: true
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'ruinscraft.com/uploads/powder/nbs/boulevardofbrokendreams.nbs'
+        volume: .5
+        multiplier: 3.33
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        note: 21
+      change2:
+        particleChar: 'B'
+        note: 16
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  carelesswhisper:
+    name: 'CarelessWhisper'
+    categories:
+      - 'Songs'
+    hidden: true
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'ruinscraft.com/uploads/powder/nbs/carelesswhisper.nbs'
+        volume: .5
+        multiplier: 2
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        note: 24
+      change2:
+        particleChar: 'B'
+        note: 18
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  dreamon:
+    name: 'DreamOn'
+    categories:
+      - 'Songs'
+    hidden: true
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'ruinscraft.com/uploads/powder/nbs/dreamon.nbs'
+        volume: .5
+        multiplier: 3.33
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        note: 6
+      change2:
+        particleChar: 'B'
+        note: 7
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  floralshoppe:
+    name: 'FloralShoppe'
+    categories:
+      - 'Songs'
+    hidden: true
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'ruinscraft.com/uploads/powder/nbs/floralshoppe.nbs'
+        volume: .5
+        multiplier: 3.33
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        note: 8
+      change2:
+        particleChar: 'B'
+        note: 9
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_GUITAR'
+  harderbetterfasterstronger:
+    name: 'HarderBetterFasterStronger'
+    categories:
+      - 'Songs'
+    hidden: true
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'ruinscraft.com/uploads/powder/nbs/harderbetterfasterstronger.nbs'
+        volume: .5
+        multiplier: 2.5
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        note: 9
+      change2:
+        particleChar: 'B'
+        note: 10
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  hipsdontlie:
+    name: 'HipsDontLie'
+    categories:
+      - 'Songs'
+    hidden: true
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'ruinscraft.com/uploads/powder/nbs/hipsdontlie.nbs'
+        volume: .5
+        multiplier: 3.333
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        note: 13
+      change2:
+        particleChar: 'B'
+        note: 14
+      change3:
+        particleChar: 'C'
+        note: 15
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+      dust3:
+        particleChar: C
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_GUITAR'
+  intheairtonight:
+    name: 'InTheAirTonight'
+    categories:
+      - 'Songs'
+    hidden: true
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'ruinscraft.com/uploads/powder/nbs/intheairtonight.nbs'
+        volume: .5
+        multiplier: 3.333
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        note: 16
+      change2:
+        particleChar: 'B'
+        note: 17
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  jellyfishjam:
+    name: 'JellyfishJam'
+    categories:
+      - 'Songs'
+    hidden: true
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'ruinscraft.com/uploads/powder/nbs/jellyfishjam.nbs'
+        volume: .5
+        multiplier: 2.5
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        note: 18
+      change2:
+        particleChar: 'B'
+        note: 19
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  jurassicpark:
+    name: 'JurassicPark'
+    categories:
+      - 'Songs'
+    hidden: true
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'ruinscraft.com/uploads/powder/nbs/jurassicpark.nbs'
+        volume: .5
+        multiplier: 3.333
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        note: 20
+      change2:
+        particleChar: 'B'
+        note: 21
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  mrbluesky:
+    name: 'MrBlueSky'
+    categories:
+      - 'Songs'
+    hidden: true
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'ruinscraft.com/uploads/powder/nbs/mrbluesky.nbs'
+        volume: .5
+        multiplier: 1.666
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        note: 23
+      change2:
+        particleChar: 'B'
+        note: 24
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_GUITAR'
+  mrbrightside:
+    name: 'MrBrightside'
+    categories:
+      - 'Songs'
+    hidden: true
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'ruinscraft.com/uploads/powder/nbs/mrbrightside.nbs'
+        volume: .5
+        multiplier: 2
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        note: 6
+      change2:
+        particleChar: 'B'
+        note: 14
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_GUITAR'
+  nevergonnagiveyouup:
+    name: 'NeverGonnaGiveYouUp'
+    categories:
+      - 'Songs'
+    hidden: true
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'ruinscraft.com/uploads/powder/nbs/nevergonnagiveyouup.nbs'
+        volume: .5
+        multiplier: 2.5
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        note: 8
+      change2:
+        particleChar: 'B'
+        note: 16
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  pumpedupkicks:
+    name: 'PumpedUpKicks'
+    categories:
+      - 'Songs'
+    hidden: true
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'ruinscraft.com/uploads/powder/nbs/pumpedupkicks.nbs'
+        volume: .5
+        multiplier: 2.5
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        note: 11
+      change2:
+        particleChar: 'B'
+        note: 3
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  ridindirty:
+    name: 'RidinDirty'
+    categories:
+      - 'Songs'
+    hidden: true
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'ruinscraft.com/uploads/powder/nbs/ridindirty.nbs'
+        volume: .5
+        multiplier: 2
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        note: 15
+      change2:
+        particleChar: 'B'
+        note: 7
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  seinfeld:
+    name: 'Seinfeld'
+    categories:
+      - 'Songs'
+    hidden: true
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'ruinscraft.com/uploads/powder/nbs/seinfeld.nbs'
+        volume: .5
+        multiplier: 2.5
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        note: 17
+      change2:
+        particleChar: 'B'
+        note: 9
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_FLUTE'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_BASS'
+  sevennationarmy:
+    name: 'SevenNationArmy'
+    categories:
+      - 'Songs'
+    hidden: true
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'ruinscraft.com/uploads/powder/nbs/sevennationarmy.nbs'
+        volume: .5
+        multiplier: 2.5
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        note: 24
+      change2:
+        particleChar: 'B'
+        note: 1
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_BASS'
+  tomfoolery:
+    name: 'Tomfoolery'
+    categories:
+      - 'Songs'
+    hidden: true
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'ruinscraft.com/uploads/powder/nbs/tomfoolery.nbs'
+        volume: .5
+        multiplier: 2.5
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        note: 19
+      change2:
+        particleChar: 'B'
+        note: 13
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_BASS'
+  tunaktunaktun:
+    name: 'TunakTunakTun'
+    categories:
+      - 'Songs'
+    hidden: true
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'ruinscraft.com/uploads/powder/nbs/tunaktunaktun.nbs'
+        volume: .5
+        multiplier: 2
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        note: 21
+      change2:
+        particleChar: 'B'
+        note: 11
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_FLUTE'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_BASS'
+  wiisports:
+    name: 'WiiSports'
+    categories:
+      - 'Songs'
+    hidden: true
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'ruinscraft.com/uploads/powder/nbs/wiisports.nbs'
+        volume: .5
+        multiplier: 2.5
+        startTime: 0
+        repeatTime: 2620
+        iterations: 0
+    changes:
+      change1:
+        particleChar: 'A'
+        note: 19
+      change2:
+        particleChar: 'B'
+        note: 14
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_BASS'
+  1812overture:
+    name: '1812Overture'
+    categories:
+      - 'Songs'
+    hidden: true
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'ruinscraft.com/uploads/powder/nbs/1812overture.nbs'
+        volume: .5
+        multiplier: 3.333
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        note: 20
+      change2:
+        particleChar: 'B'
+        note: 10
+      change3:
+        particleChar: 'C'
+        note: 15
+      change4:
+        particleChar: 'D'
+        note: 23
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_FLUTE'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_BASS'
+      dust3:
+        particleChar: C
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust4:
+        particleChar: D
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  BowsersCastle:
+    name: 'MarioKartBowsersCastle'
+    categories:
+      - 'Songs'
+    hidden: true
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'ruinscraft.com/uploads/powder/nbs/BowsersCastle.nbs'
+        volume: .5
+        multiplier: 2
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        note: 8
+      change2:
+        particleChar: 'B'
+        note: 1
+      change3:
+        particleChar: 'C'
+        note: 7
+      change4:
+        particleChar: 'D'
+        note: 10
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_FLUTE'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_BASS'
+      dust3:
+        particleChar: C
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust4:
+        particleChar: D
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  CantinaBand:
+    name: 'CantinaBand'
+    categories:
+      - 'Songs'
+    hidden: true
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'ruinscraft.com/uploads/powder/nbs/cantinaband.nbs'
+        volume: .5
+        multiplier: 1
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        note: 19
+      change2:
+        particleChar: 'B'
+        note: 8
+      change3:
+        particleChar: 'C'
+        note: 10
+      change4:
+        particleChar: 'D'
+        note: 13
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_FLUTE'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_BASS'
+      dust3:
+        particleChar: C
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust4:
+        particleChar: D
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  ComeOnEileen:
+    name: 'ComeOnEileen'
+    categories:
+      - 'Songs'
+    hidden: true
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'ruinscraft.com/uploads/powder/nbs/comeoneileen.nbs'
+        volume: .5
+        multiplier: 2.5
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        note: 17
+      change2:
+        particleChar: 'B'
+        note: 15
+      change3:
+        particleChar: 'C'
+        note: 14
+      change4:
+        particleChar: 'D'
+        note: 11
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_FLUTE'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_BASS'
+      dust3:
+        particleChar: C
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust4:
+        particleChar: D
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  DejaVu:
+    name: 'DejaVu'
+    categories:
+      - 'Songs'
+    hidden: true
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'ruinscraft.com/uploads/powder/nbs/dejavu.nbs'
+        volume: .5
+        multiplier: 2
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        note: 21
+      change2:
+        particleChar: 'B'
+        note: 11
+      change3:
+        particleChar: 'C'
+        note: 21
+      change4:
+        particleChar: 'D'
+        note: 11
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_FLUTE'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_BASS'
+      dust3:
+        particleChar: C
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust4:
+        particleChar: D
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  delfinosquare:
+    name: 'MarioKartDelfinoSquare'
+    categories:
+      - 'Songs'
+    hidden: true
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'ruinscraft.com/uploads/powder/nbs/delfinosquare.nbs'
+        volume: .5
+        multiplier: 2
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        note: 23
+      change2:
+        particleChar: 'B'
+        note: 14
+      change3:
+        particleChar: 'C'
+        note: 4
+      change4:
+        particleChar: 'D'
+        note: 13
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_FLUTE'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_BASS'
+      dust3:
+        particleChar: C
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust4:
+        particleChar: D
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  dksummit:
+    name: 'MarioKartDKSummit'
+    categories:
+      - 'Songs'
+    hidden: true
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'ruinscraft.com/uploads/powder/nbs/dksummit.nbs'
+        volume: .5
+        multiplier: 2
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        note: 2
+      change2:
+        particleChar: 'B'
+        note: 9
+      change3:
+        particleChar: 'C'
+        note: 10
+      change4:
+        particleChar: 'D'
+        note: 13
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_FLUTE'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_BASS'
+      dust3:
+        particleChar: C
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust4:
+        particleChar: D
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  figure8circuit:
+    name: 'MarioKartFigure8Circuit'
+    categories:
+      - 'Songs'
+    hidden: true
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'ruinscraft.com/uploads/powder/nbs/figure8circuit.nbs'
+        volume: .5
+        multiplier: 2
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        note: 21
+      change2:
+        particleChar: 'B'
+        note: 13
+      change3:
+        particleChar: 'C'
+        note: 14
+      change4:
+        particleChar: 'D'
+        note: 6
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_FLUTE'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_BASS'
+      dust3:
+        particleChar: C
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust4:
+        particleChar: D
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  heytheredelilah:
+    name: 'HeyThereDelilah'
+    categories:
+      - 'Songs'
+    hidden: true
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'ruinscraft.com/uploads/powder/nbs/heytheredelilah.nbs'
+        volume: .5
+        multiplier: 2.5
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        note: 10
+      change2:
+        particleChar: 'B'
+        note: 17
+      change3:
+        particleChar: 'C'
+        note: 21
+      change4:
+        particleChar: 'D'
+        note: 3
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_FLUTE'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_BASS'
+      dust3:
+        particleChar: C
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust4:
+        particleChar: D
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  HotelCalifornia:
+    name: 'HotelCalifornia'
+    categories:
+      - 'Songs'
+    hidden: true
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'ruinscraft.com/uploads/powder/nbs/hotelcalifornia.nbs'
+        volume: .5
+        multiplier: 2
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        note: 4
+      change2:
+        particleChar: 'B'
+        note: 5
+      change3:
+        particleChar: 'C'
+        note: 6
+      change4:
+        particleChar: 'D'
+        note: 7
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_FLUTE'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_BASS'
+      dust3:
+        particleChar: C
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust4:
+        particleChar: D
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  Interstellar:
+    name: 'Interstellar'
+    categories:
+      - 'Songs'
+    hidden: true
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'ruinscraft.com/uploads/powder/nbs/interstellar.nbs'
+        volume: .5
+        multiplier: 3.333
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        note: 8
+      change2:
+        particleChar: 'B'
+        note: 12
+      change3:
+        particleChar: 'C'
+        note: 15
+      change4:
+        particleChar: 'D'
+        note: 3
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_FLUTE'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_BASS'
+      dust3:
+        particleChar: C
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust4:
+        particleChar: D
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  LuigiCircuit:
+    name: 'MarioKartLuigiCircuit'
+    categories:
+      - 'Songs'
+    hidden: true
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'ruinscraft.com/uploads/powder/nbs/luigicircuit.nbs'
+        volume: .5
+        multiplier: 2
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        note: 4
+      change2:
+        particleChar: 'B'
+        note: 15
+      change3:
+        particleChar: 'C'
+        note: 3
+      change4:
+        particleChar: 'D'
+        note: 19
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_FLUTE'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_BASS'
+      dust3:
+        particleChar: C
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust4:
+        particleChar: D
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  LuigisMansion:
+    name: 'MarioKartLuigisMansion'
+    categories:
+      - 'Songs'
+    hidden: true
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'ruinscraft.com/uploads/powder/nbs/luigismansion.nbs'
+        volume: .5
+        multiplier: 2.5
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        note: 13
+      change2:
+        particleChar: 'B'
+        note: 5
+      change3:
+        particleChar: 'C'
+        note: 2
+      change4:
+        particleChar: 'D'
+        note: 17
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_FLUTE'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_BASS'
+      dust3:
+        particleChar: C
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust4:
+        particleChar: D
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  MapleTreeway:
+    name: 'MarioKartMapleTreeway'
+    categories:
+      - 'Songs'
+    hidden: true
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'ruinscraft.com/uploads/powder/nbs/mapletreeway.nbs'
+        volume: .5
+        multiplier: 2
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        note: 23
+      change2:
+        particleChar: 'B'
+        note: 2
+      change3:
+        particleChar: 'C'
+        note: 7
+      change4:
+        particleChar: 'D'
+        note: 13
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_FLUTE'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_BASS'
+      dust3:
+        particleChar: C
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust4:
+        particleChar: D
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  MarioCircuit:
+    name: 'MarioKartMarioCircuit'
+    categories:
+      - 'Songs'
+    hidden: true
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'ruinscraft.com/uploads/powder/nbs/mariocircuit.nbs'
+        volume: .5
+        multiplier: 2
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        note: 10
+      change2:
+        particleChar: 'B'
+        note: 13
+      change3:
+        particleChar: 'C'
+        note: 23
+      change4:
+        particleChar: 'D'
+        note: 3
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_FLUTE'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_BASS'
+      dust3:
+        particleChar: C
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust4:
+        particleChar: D
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  MarioKartCourseSelect:
+    name: 'MarioKartCourseSelect'
+    categories:
+      - 'Songs'
+    hidden: true
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'ruinscraft.com/uploads/powder/nbs/mariokartcourseselect.nbs'
+        volume: .5
+        multiplier: 2
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        note: 3
+      change2:
+        particleChar: 'B'
+        note: 11
+      change3:
+        particleChar: 'C'
+        note: 12
+      change4:
+        particleChar: 'D'
+        note: 5
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_FLUTE'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_BASS'
+      dust3:
+        particleChar: C
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust4:
+        particleChar: D
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  MooMooMeadows:
+    name: 'MarioKartMooMooMeadows'
+    categories:
+      - 'Songs'
+    hidden: true
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'ruinscraft.com/uploads/powder/nbs/moomoomeadows.nbs'
+        volume: .5
+        multiplier: 2
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        note: 2
+      change2:
+        particleChar: 'B'
+        note: 6
+      change3:
+        particleChar: 'C'
+        note: 11
+      change4:
+        particleChar: 'D'
+        note: 17
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_FLUTE'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_BASS'
+      dust3:
+        particleChar: C
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust4:
+        particleChar: D
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  MushroomGorge:
+    name: 'MarioKartMushroomGorge'
+    categories:
+      - 'Songs'
+    hidden: true
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'ruinscraft.com/uploads/powder/nbs/mushroomgorge.nbs'
+        volume: .5
+        multiplier: 2
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        note: 19
+      change2:
+        particleChar: 'B'
+        note: 13
+      change3:
+        particleChar: 'C'
+        note: 11
+      change4:
+        particleChar: 'D'
+        note: 7
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_FLUTE'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_BASS'
+      dust3:
+        particleChar: C
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust4:
+        particleChar: D
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  RainbowRoad:
+    name: 'MarioKartRainbowRoad'
+    categories:
+      - 'Songs'
+    hidden: true
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'ruinscraft.com/uploads/powder/nbs/rainbowroad.nbs'
+        volume: .5
+        multiplier: 2
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        note: 8
+      change2:
+        particleChar: 'B'
+        note: 21
+      change3:
+        particleChar: 'C'
+        note: 3
+      change4:
+        particleChar: 'D'
+        note: 17
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_FLUTE'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_BASS'
+      dust3:
+        particleChar: C
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust4:
+        particleChar: D
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  resonance:
+    name: 'Resonance'
+    categories:
+      - 'Songs'
+    hidden: true
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'ruinscraft.com/uploads/powder/nbs/resonance.nbs'
+        volume: .5
+        multiplier: 2
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        note: 19
+      change2:
+        particleChar: 'B'
+        note: 14
+      change3:
+        particleChar: 'C'
+        note: 23
+      change4:
+        particleChar: 'D'
+        note: 3
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_FLUTE'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_BASS'
+      dust3:
+        particleChar: C
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust4:
+        particleChar: D
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  SafeAndSound:
+    name: 'SafeAndSound'
+    categories:
+      - 'Songs'
+    hidden: true
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'ruinscraft.com/uploads/powder/nbs/safeandsound.nbs'
+        volume: .5
+        multiplier: 2.5
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        note: 3
+      change2:
+        particleChar: 'B'
+        note: 12
+      change3:
+        particleChar: 'C'
+        note: 6
+      change4:
+        particleChar: 'D'
+        note: 12
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_FLUTE'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_BASS'
+      dust3:
+        particleChar: C
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust4:
+        particleChar: D
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  SeeYouAgain:
+    name: 'SeeYouAgain'
+    categories:
+      - 'Songs'
+    hidden: true
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'ruinscraft.com/uploads/powder/nbs/seeyouagain.nbs'
+        volume: .5
+        multiplier: 2.5
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        note: 12
+      change2:
+        particleChar: 'B'
+        note: 21
+      change3:
+        particleChar: 'C'
+        note: 17
+      change4:
+        particleChar: 'D'
+        note: 4
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_FLUTE'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_BASS'
+      dust3:
+        particleChar: C
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust4:
+        particleChar: D
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  ShakeItOff:
+    name: 'ShakeItOff'
+    categories:
+      - 'Songs'
+    hidden: true
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'ruinscraft.com/uploads/powder/nbs/shakeitoff.nbs'
+        volume: .5
+        multiplier: 2
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        note: 4
+      change2:
+        particleChar: 'B'
+        note: 8
+      change3:
+        particleChar: 'C'
+        note: 11
+      change4:
+        particleChar: 'D'
+        note: 18
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_FLUTE'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_BASS'
+      dust3:
+        particleChar: C
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust4:
+        particleChar: D
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  StairwayToHeaven:
+    name: 'StairwayToHeaven'
+    categories:
+      - 'Songs'
+    hidden: true
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'ruinscraft.com/uploads/powder/nbs/stairwaytoheaven.nbs'
+        volume: .5
+        multiplier: 3.333
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        note: 18
+      change2:
+        particleChar: 'B'
+        note: 15
+      change3:
+        particleChar: 'C'
+        note: 22
+      change4:
+        particleChar: 'D'
+        note: 5
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_FLUTE'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_BASS'
+      dust3:
+        particleChar: C
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust4:
+        particleChar: D
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  TakeOnMe:
+    name: 'TakeOnMe'
+    categories:
+      - 'Songs'
+    hidden: true
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'ruinscraft.com/uploads/powder/nbs/takeonme.nbs'
+        volume: .5
+        multiplier: 2
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        note: 2
+      change2:
+        particleChar: 'B'
+        note: 11
+      change3:
+        particleChar: 'C'
+        note: 17
+      change4:
+        particleChar: 'D'
+        note: 6
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_FLUTE'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_BASS'
+      dust3:
+        particleChar: C
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust4:
+        particleChar: D
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  TikTok:
+    name: 'TikTok'
+    categories:
+      - 'Songs'
+    hidden: true
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'ruinscraft.com/uploads/powder/nbs/tiktok.nbs'
+        volume: .5
+        multiplier: 2
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        note: 23
+      change2:
+        particleChar: 'B'
+        note: 16
+      change3:
+        particleChar: 'C'
+        note: 11
+      change4:
+        particleChar: 'D'
+        note: 3
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_FLUTE'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_BASS'
+      dust3:
+        particleChar: C
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust4:
+        particleChar: D
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  ToadsFactory:
+    name: 'MarioKartToadsFactory'
+    categories:
+      - 'Songs'
+    hidden: true
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'ruinscraft.com/uploads/powder/nbs/toadsfactory.nbs'
+        volume: .5
+        multiplier: 2
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        note: 19
+      change2:
+        particleChar: 'B'
+        note: 15
+      change3:
+        particleChar: 'C'
+        note: 13
+      change4:
+        particleChar: 'D'
+        note: 11
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_FLUTE'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_BASS'
+      dust3:
+        particleChar: C
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust4:
+        particleChar: D
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  TurkishMarch:
+    name: 'TurkishMarch'
+    categories:
+      - 'Songs'
+    hidden: true
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'ruinscraft.com/uploads/powder/nbs/turkishmarch.nbs'
+        volume: .5
+        multiplier: 2.5
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        note: 23
+      change2:
+        particleChar: 'B'
+        note: 3
+      change3:
+        particleChar: 'C'
+        note: 5
+      change4:
+        particleChar: 'D'
+        note: 7
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_FLUTE'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_BASS'
+      dust3:
+        particleChar: C
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust4:
+        particleChar: D
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  UmaThurman:
+    name: 'UmaThurman'
+    categories:
+      - 'Songs'
+    hidden: true
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'ruinscraft.com/uploads/powder/nbs/umathurman.nbs'
+        volume: .5
+        multiplier: 2
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        note: 1
+      change2:
+        particleChar: 'B'
+        note: 3
+      change3:
+        particleChar: 'C'
+        note: 5
+      change4:
+        particleChar: 'D'
+        note: 15
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_FLUTE'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_BASS'
+      dust3:
+        particleChar: C
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust4:
+        particleChar: D
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  UptownFunk:
+    name: 'UptownFunk'
+    categories:
+      - 'Songs'
+    hidden: true
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'ruinscraft.com/uploads/powder/nbs/uptownfunk.nbs'
+        volume: .5
+        multiplier: 2.5
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        note: 12
+      change2:
+        particleChar: 'B'
+        note: 2
+      change3:
+        particleChar: 'C'
+        note: 4
+      change4:
+        particleChar: 'D'
+        note: 18
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_FLUTE'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_BASS'
+      dust3:
+        particleChar: C
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust4:
+        particleChar: D
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  waltzoftheflowers:
+    name: 'WaltzOfTheFlowers'
+    categories:
+      - 'Songs'
+    hidden: true
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'ruinscraft.com/uploads/powder/nbs/waltzoftheflowers.nbs'
+        volume: .5
+        multiplier: 2
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        note: 2
+      change2:
+        particleChar: 'B'
+        note: 17
+      change3:
+        particleChar: 'C'
+        note: 23
+      change4:
+        particleChar: 'D'
+        note: 13
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_FLUTE'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_BASS'
+      dust3:
+        particleChar: C
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust4:
+        particleChar: D
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  waluigipinball:
+    name: 'MarioKartWaluigiPinball'
+    categories:
+      - 'Songs'
+    hidden: true
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'ruinscraft.com/uploads/powder/nbs/waluigipinball.nbs'
+        volume: .5
+        multiplier: 2
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        note: 23
+      change2:
+        particleChar: 'B'
+        note: 2
+      change3:
+        particleChar: 'C'
+        note: 5
+      change4:
+        particleChar: 'D'
+        note: 8
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_FLUTE'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_BASS'
+      dust3:
+        particleChar: C
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust4:
+        particleChar: D
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  weareyoung:
+    name: 'WeAreYoung'
+    categories:
+      - 'Songs'
+    hidden: true
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'ruinscraft.com/uploads/powder/nbs/weareyoung.nbs'
+        volume: .5
+        multiplier: 2
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        note: 17
+      change2:
+        particleChar: 'B'
+        note: 14
+      change3:
+        particleChar: 'C'
+        note: 4
+      change4:
+        particleChar: 'D'
+        note: 7
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_FLUTE'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_BASS'
+      dust3:
+        particleChar: C
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust4:
+        particleChar: D
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  WhatYouKnow:
+    name: 'WhatYouKnow'
+    categories:
+      - 'Songs'
+    hidden: true
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'ruinscraft.com/uploads/powder/nbs/whatyouknow.nbs'
+        volume: .5
+        multiplier: 2
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        note: 12
+      change2:
+        particleChar: 'B'
+        note: 1
+      change3:
+        particleChar: 'C'
+        note: 3
+      change4:
+        particleChar: 'D'
+        note: 18
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_FLUTE'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_BASS'
+      dust3:
+        particleChar: C
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust4:
+        particleChar: D
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
+  wiisportsresort:
+    name: 'WiiSportsResort'
+    categories:
+      - 'Songs'
+    hidden: true
+    spacing: .12
+    songs:
+      song1:
+        fileName: 'ruinscraft.com/uploads/powder/nbs/wiisportsresort.nbs'
+        volume: .5
+        multiplier: 2
+        startTime: 0
+        repeatTime: 0
+        iterations: 1
+    changes:
+      change1:
+        particleChar: 'A'
+        note: 3
+      change2:
+        particleChar: 'B'
+        note: 6
+      change3:
+        particleChar: 'C'
+        note: 16
+      change4:
+        particleChar: 'D'
+        note: 18
+    dusts:
+      dust1:
+        particleChar: A
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_FLUTE'
+      dust2:
+        particleChar: B
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_BASS'
+      dust3:
+        particleChar: C
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_HARP'
+      dust4:
+        particleChar: D
+        radius: .5
+        height: 0
+        span: .8
+        attachToNote: true
+        attachedToNote: 'BLOCK_NOTE_SNARE'
